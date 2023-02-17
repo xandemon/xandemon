@@ -1,7 +1,3 @@
-# 💫 About Me:
-🤓 A lil' boy with big ambitions<br>🔭 Simply love exploring and learning things<br>🤖 Currently learning web development<br>😁Looking to collaborate on some interesting projects<br><br>☎️ Feel free to reach out to me!<br>🥲 But wait, I'm an introvert with a bit of anxiety.<br>🦥 And yeah, I'm super lazy too.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_your.sandesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deadclown09) 
 
