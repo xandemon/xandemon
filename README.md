@@ -1,5 +1,5 @@
 ## 🧑‍💻 About me?
-I am still trying to figure myself out. So maybe I'll let you know once I'm done knowing myself. Thanks for checking tho, I appreciate it! 😄
+I am still trying to figure myself out. So maybe I'll let you know once I'm done knowing myself.<br>Thanks for checking tho, I appreciate it! 😄
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_your.sandesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deadclown09) 
